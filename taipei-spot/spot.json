@@ -1,0 +1,6 @@
+{
+    "type": "CSVMap",
+    "repo": {"user": "EATGOCO", "repository": "data", "path": "taipei-spot/spot.csv"},
+    "latlng": ["latitude", "longitude"]
+}
+
